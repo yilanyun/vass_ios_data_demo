@@ -1,6 +1,6 @@
 DEMO说明
 
-YLAPICommon：将一览平台提供的accessKey和accessToken替换。
+YLAPICommon：体验demo之前先
 
 YLData：负责常规数据请求
 
